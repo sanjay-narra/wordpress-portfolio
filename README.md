@@ -36,4 +36,4 @@ This is a personal portfolio website developed using WordPress to demonstrate we
 
 ## Author
 Sanjay  
-GitHub: https://github.com/Sanjay284-beep
+GitHub: https://github.com/sanjay-narra
